@@ -16,4 +16,10 @@
     NSLog(@"我是openLibrary测试小方法1");
 }
 
+- (void)testSecondMethod{
+    NSLog(@"我是openLibrary测试小方法2");
+    NSLog(@"我是openLibrary测试小方法2");
+    NSLog(@"我是openLibrary测试小方法2");
+}
+
 @end
